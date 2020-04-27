@@ -16,6 +16,7 @@ header:
 
 ---
 
+![](/assets/images/templeofdoom/doom.png)
 
 * ### Setup
 
