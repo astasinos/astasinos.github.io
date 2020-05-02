@@ -11,6 +11,7 @@ excerpt: "Wintermute is an intermediate box. It's actually two boxes, one is Str
 header:
   teaser: /assets/images/wintermute/wintermute.png
   teaser_home_page: true
-
+  overlay_image: /assets/images/wintermute/wintermute.png
+  overlay_filter: 0.5
 ---
-![](/assets/images/wintermute/wintermute.png)
+
