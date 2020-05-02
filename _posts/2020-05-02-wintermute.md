@@ -3,7 +3,7 @@ layout: single
 title:  "Wintermute - Vulnhub"
 path: /posts/
 date:   2020-05-02 
-tags: LFI "Log Injection" Pivoting Tomcat RCE
+tags: LFI,Log Injection,Pivoting,Tomcat,RCE
 categories: Vulnhub
 classes: wide
 author: komodino
