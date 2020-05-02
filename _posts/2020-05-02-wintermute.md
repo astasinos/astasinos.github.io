@@ -13,3 +13,4 @@ header:
   teaser_home_page: true
 
 ---
+![](/assets/images/wintermute/wintermute.png)
