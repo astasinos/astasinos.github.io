@@ -282,6 +282,8 @@ Now in our listener we have
 
 ![](/assets/images/wintermute/23.png)
 
+## Exploitation
+
 We succesfully have a shell as the user **ta**.
 
 After looking around in the system we stumble upon a file in `/home/ta/ai-guide.txt` revealing the location of the Tomcat install
@@ -297,6 +299,7 @@ There is an **HTML-encoded** password for the user **lady3jane**. Pasting this i
 
 We can use these credentials to **ssh** into the box. Remember that ssh runs on port **34483** and we tunneled that through Straylight. That way we can connect with `ssh -p 34483 lady3jane@192.168.56.102`
 
+## Privilege Escalation
 
 ![](/assets/images/wintermute/27.png)
 
