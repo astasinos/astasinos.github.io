@@ -11,8 +11,6 @@ excerpt: "Wintermute is an intermediate box. It's actually two boxes, Straylight
 header:
   teaser: /assets/images/wintermute/wintermute.png
   teaser_home_page: true
-  overlay_image: /assets/images/wintermute/wintermute.png
-  overlay_filter: 0.6
 ---
 
 ## Setup
