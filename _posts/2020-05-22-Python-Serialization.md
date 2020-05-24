@@ -9,7 +9,7 @@ classes: wide
 author: komodino
 excerpt: "This is a post containing my findings researching python deserialization attack vectors."
 header:
-  teaser: /assets/images/unserialize/picklerick.jpg
+  teaser: /assets/images/unserialize/picklerick.png
   teaser_home_page: true
 
 ---
