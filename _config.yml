@@ -288,3 +288,8 @@ compress_html:
   clippings: all
   ignore:
     envs: development 
+
+kramdown:
+    syntax_highlighter_opts:
+        block:
+            line_numbers: true
