@@ -4,7 +4,7 @@ title:  "Pwnable.xyz - Free Spirit"
 path: /posts/
 date:   2020-07-17
 tags: pwn pwnablexyz heap ctf
-categories: pwn
+categories: binexp
 classes: wide
 author: komodino
 excerpt: "Are you tired of reading short poor quality writeups that provide no learning value for the reader? Let's fix that. Free spirit is a pwn challenge on pwnabe.xyz and was actually the first challenge
