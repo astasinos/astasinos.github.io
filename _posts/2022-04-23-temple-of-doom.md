@@ -2,7 +2,7 @@
 layout: single
 title:  "Temple of Doom - Vulnhub"
 path: /posts/
-date:   2020-04-23 12:07:47 +0300
+date:   2022-04-23 12:07:47 +0300
 tags: NodeJs Deserialization ss-manager
 categories: Vulnhub
 classes: wide

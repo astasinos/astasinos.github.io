@@ -27,3 +27,5 @@ gem "github-pages", group: :jekyll_plugins
 #
 # If you have any other plugins, put them here!
 
+
+gem "webrick", "~> 1.8"

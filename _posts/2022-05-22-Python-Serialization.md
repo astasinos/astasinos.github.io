@@ -2,7 +2,7 @@
 layout: single
 title:  "Python Deserialization Vulnerabilities"
 path: /posts/
-date:   2020-05-22
+date:   2022-05-22
 tags: Deserialization python pickle
 categories: research
 classes: wide

@@ -2,7 +2,7 @@
 layout: single
 title:  "Wintermute - Vulnhub"
 path: /posts/
-date:   2020-05-02 
+date:   2022-05-02 
 tags: LFI Pivoting Tomcat RCE
 categories: Vulnhub
 classes: wide

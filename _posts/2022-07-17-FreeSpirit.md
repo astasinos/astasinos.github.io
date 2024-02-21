@@ -2,7 +2,7 @@
 layout: single
 title:  "Pwnable.xyz - Free Spirit"
 path: /posts/
-date:   2020-07-17
+date:   2022-07-17
 tags: pwn pwnablexyz heap ctf
 categories: binexp
 classes: wide
